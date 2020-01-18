@@ -1,0 +1,3 @@
+creamos un seeder para poder
+
+https://www.youtube.com/watch?v=vqw0Uolgd4g indica para poder ver que necesitamos hacer para poder usar roles y permisos
